@@ -3,7 +3,7 @@ colorama==0.3.7
 cycler==0.10.0
 dj-database-url==0.4.2
 dj-static==0.0.6
-Django==1.10.4
+Django==2.2.25
 django-bootstrap3==8.0.0
 generateDS==2.24a0
 gunicorn==19.6.0
